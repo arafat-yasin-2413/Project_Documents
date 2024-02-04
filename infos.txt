@@ -1,0 +1,310 @@
+*********
+Course: 1
+*********
+Python for Data Science, AI & Development
+    
+    Description: Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.
+
+    Module 1 : Python Basics
+
+        description: This module teaches the basics of Python and begins by exploring some of the different data types such as integers, real numbers, and strings. Continue with the module and learn how to use expressions in mathematical operations, store values in variables, and the many different ways to manipulate strings.
+
+    Module 2 : Python Data Structures
+
+        description: This module begins a journey into Python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable. Next learn about dictionaries and how they function by storing data in pairs of keys and values, and end with Python sets to learn how this type of collection can appear in any order and will only contain unique elements.
+
+    Module 3 : Python Programming Fundamentals
+
+        description: This module discusses Python fundamentals and begins with the concepts of conditions and branching. Continue through the module and learn how to implement loops to iterate over sequences, create functions to perform a specific task, perform exception handling to catch errors, and how classes are needed to create objects.
+
+
+    Module 4 : Working with Data in Python
+
+        description: This module explains the basics of working with data in Python and begins the path with learning how to read and write files. Continue the module and uncover the best Python libraries that will aid in data manipulation and mathematical operations.
+
+    Module 5 : APIs, and Data Collection
+
+        description: This module delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+
+
+
+------------------------------------------------------------
+
+*********
+Course: 2
+*********
+Introduction to Cloud Computing
+    
+    Description: Start your cloud computing journey with this self-paced introductory course! Whether you need general cloud computing knowledge for school or business, or you are considering a career change, this beginner-friendly course is right for you. 
+
+    Module 1 : Overview of Cloud Computing
+
+        description: In Module 1, in the first lesson, you will learn the definition of cloud computing and its five essential characteristics. In the next topic, you will learn about the history and evolution of cloud computing and the benefits of the pay-as-you-go feature of cloud computing. The third topic will describe the key considerations, benefits, and challenges of cloud computing.
+
+    Module 2 : Cloud Computing Models
+
+        description: In Module 2, you will learn about the different types of service and deployment models of cloud computing. The first lesson covers the three main service models available on the cloud—Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS).
+
+    Module 3 : Components of Cloud Computing
+
+        description: In Module 3, you will learn about the various components of a cloud computing architecture, such as the virtualization of virtual machines and bare metal servers, and the difference between virtual machines and bare metal servers.
+
+
+    Module 4 : Emegrent Trends and Practices
+
+        description: In Module 4, you will learn about the use cases and challenges of emergent trends in cloud computing, such as hybrid multi-cloud, serverless computing, and microservices. Additionally, this module will teach you about the core concepts and benefits of cloud native applications.
+
+    Module 5 : Cloud Security, Monitoring,Case Studies, Jobs
+
+        description: In Module 5, you will learn about elements of cloud security, including Identity and Access Management and cloud encryption. This module will cover how organizations leverage cloud monitoring solutions to optimize business benefits.
+
+    Module 6 : Final Project
+
+        description: In this module, you will complete a final project to deploy a containerized application on the cloud using a serverless technology (no programming experience needed). You can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study.
+
+
+---------------------------------------------------
+*********
+Course: 3
+*********
+Introduction to Web Development with HTML, CSS, JavaScript
+    
+    Description: Want to take the first steps to become a Web Developer? This course will help you discover the languages, frameworks, and tools that you will need to create interactive and engaging websites right from the beginning. 
+
+    Module 1 : Introduction to Application Development
+
+        description: Learn what web development involves from the very beginning. Discover the languages, frameworks, and tools, that enable you to create interactive and engaging websites and Cloud Applications, right from the very beginning.
+
+    Module 2 : HTML Overview
+
+        description: The most fundamental tools for front-end developers are the languages they use for developing the website or app. Foremost among these languages is Hyper Text Markup Language (HTML). A thorough understanding of HTML, its features, support, and scripting capabilities makes a solid foundation for you to build your development skills on.
+
+    Module 3 : CSS Overview & HTML5 Elements
+
+        description: HTML5 has many elements that enable developers to create well-structured and varied websites. CSS is a style sheet language that defines how HTML elements are displayed. By using a combination of HTML5 and CSS, developers can create rich, interactive applications. 
+
+
+    Module 4 : JavaScript Programming for Web Applications
+
+        description: You now have a website or Cloud App with structure and content from HTML, consistent style from CSS, and a limited amount of interactivity for the user. To enhance the user experience and create a real wow factor, you’re going to need JavaScript.
+
+    Module 5 : Career Opportunities and Final Project
+
+        description: Now that you have been equipped with the skills to use HTML, CSS, and JavaScript, you will have the opportunity to practice and create a web application. In this scenario, you have been hired by a reputed placement company, ABC Consultant, whose primary focus is to help people with less than 5 years of experience to find a suitable placement in their industry.
+
+---------------------------------------------------
+
+*********
+Course: 4
+*********
+Developing Front-End Apps with React
+    
+    Description: React is one of the most popular frameworks  in the Web and Front-end application Development category. In this course, you will build rich Front-End applications with React and ES6 connect React components using data and state write rich React components with advanced features like Hooks and Redux. 
+
+    Module 1 : Building Rich Front-End Applications with React and ES6
+
+        description: As you become more proficient with JavaScript, you will find that it is a very dynamic language and looks different from the typical object-oriented languages. Now you will discover new features that make developing simpler and faster than older JavaScript capabilities.
+
+    Module 2 : React Components
+
+        description: How do you think data is managed in React? Changes in the component data are managed using state and props in a React application. In addition, you can pass data and state between components. You will discover the three phases of a component lifecycle and the methods used in each phase.
+
+    Module 3 : Advanced React
+
+        description: Having problems with massive unmanageable applications? Learn about new features like Hooks and Redux to write complicated components. You will learn how Hooks handle events and logics in functional components without using classes. 
+
+
+    Module 4 : Final Project
+
+        description: In the final project, you will create a React Budget Allocation app. You will learn how to break down a UI into React components and become familiar with state using the Context API. Furthermore, you will explore actions, reducers, and the dispatch function.
+
+---------------------------------------------------
+
+
+*********
+Course: 5
+*********
+Developing Back-End Apps with Node.js and Express
+    
+    Description: In a recent Stack Overflow survey, Node.js was used by about 50% of the developers who answered the survey, making it the most used server-side technology. Express ranked as the fourth most popular web technology overall, making it the most popular server-side web framework. 
+
+    Module 1 : Introduction to Server-Side JavaScript
+
+        description: You may already be familiar with JavaScript, but did you know there is a server-side JavaScript framework? Discover how Node.js is used on the back end to develop rich, dynamic web applications by importing external modules and using node package manager (NPM). 
+
+    Module 2 : Asynchronous I/O with callback programming
+
+        description: How can you optimize processor time with Node.js? Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. Explore the advantages and challenges associated with using anonymous callback functions.
+
+    Module 3 : Express Web Application Framework
+
+        description: When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low-level. You can extend its features with third-party packages such as Express. Get hands-on experience with the Express web application framework by creating a web server that listens to incoming requests. 
+
+
+    Module 4 : Final Project
+
+        description: In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman.
+   
+---------------------------------------------------
+*********
+Course: 6
+*********
+Django Application Development with SQL and Databases
+    
+    Description: Working with databases is a key skill for developers, especially those in Back-End, Full Stack, and DevOps roles. This course will teach you the fundamentals of relational databases and how to access them from your applications.    
+  
+
+    Module 1 : Getting Started with SQL & Relational Databases
+
+        description: What is data? As you start this course, you will be introduced to concepts fundamental to understanding data, databases, and database management systems. You will learn some basic SQL statements. Explore the structure, use cases, and limitations of relational databases. 
+
+    Module 2 : ORM: Bridging the Gap Between the Real World and Relational Model
+
+        description: You’re aware that SQL is a powerful tool for working with databases. But in the modern application development environment, object-oriented programming is the most popular paradigm, and it is quite different from SQL.
+
+    Module 3 : Full-stack Django Development
+
+        description: It’s time to build your skills by creating a Django web app. In this module, you’ll explore the Django Model- View- Template design pattern and learn how Django models, views, and templates work together to present data on a website. You’ll look at a typical Django development process, starting with building a Django project and creating and adding an app. 
+
+
+    Module 4 : Consolidate and Deploy Your Django App
+
+        description: Add to your Django skills by building a class-based view. Then, learn how to speed up development using Django’s generic-based views. Next, you’ll learn about authentication and authorization in Django. Create a User model to handle authentication and work with other models to handle authorization.
+
+    Module 5 : Final Project: Enhance Online Course App with New Features
+
+        description: Welcome to the culmination of your learning journey in this Django course. In this module, you will apply your new skills and knowledge to improve applications in a practice project and a peer-reviewed final project.
+   
+--------------------------------------------------
+
+*********
+Course: 7 (type: accounting)
+*********
+Financial Accounting Fundamentals
+    
+    Description: This course, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, will teach you the tools you'll need to understand the fundamentals of financial accounting. Concise videos, the financial records of a small business, and "your turn" activities guide you through the three most commonly used financial statements: the Balance Sheet, the Income Statement, and the Statement of Cash Flows. Beyond recording transactions, you'll learn how to prepare these financial statements, and read and analyze them to draw basic conclusions about a company's financial health.    
+  
+
+    Module 1 : Introduction to Financial Accounting, the Financial Statements and the Balance Sheet
+
+        description: During this first week, we’ll learn about the context for financial accounting, including the informational role it plays for both internal and external audiences. We’ll explain accounting standards, which ensure financial information is conveyed clearly and effectively. Finally, we’ll describe the three primary financial statements as part of a recurring accounting process, called the accounting cycle, and then dive into one of those statements: the Balance Sheet (BS). 
+
+    Module 2 : Introduction to Recording Transactions
+
+        description: After learning about the Balance Sheet, we’re ready to move on to using journal entries to record transactions, then t-accounts to summarize transactions recorded during an accounting period. We’ll apply those tools to record transactions for a fictional startup company, The Garden Spot, during its first year of operations (TGS Year 1).
+
+    Module 3 : The Income Statement, Revenue and Expense Transactions, and Adjusting Entries
+
+        description: Now that we’ve learned the fundamentals of recording transactions, we’re ready to dive into another financial statement: the Income Statement (IS). After learning about the Income Statement, we’ll record revenue and expense transactions, and summarize these transactions in a special account. 
+
+
+    Module 4 : The Statement of Cash Flows, Financial Statement Preparation
+
+        description: After learning about the Income Statement, revenue and expense transactions, and adjusting entries, we’re ready to move on to preparing our end-of-period financial statements. We’ll prepare the Income Statement and Balance Sheet based on the transactions that have been recorded. Then, we’ll dive into the Statement of Cash Flows (SCF) and learn how to prepare that financial statement.
+
+    Module 5 : Final Project: Annual Report 
+
+        description: During this last week, we’ll walk through the second year of operations for our fictional startup company, The Garden Spot (TGS Year 2), for additional practice recording transactions and preparing our end-of-period financial statements. Then, we’ll do some analysis of The Garden Spot’s financial statements. Finally, we’ll take a look at PepsiCo’s Annual Report as an example of reporting for a publicly traded U.S. company.
+
+---------------------------------------------------
+
+*********
+Course: 8 (type: accounting)
+*********
+Business Analytics with Excel: Elementary to Advanced
+    
+    Description: A leader in a data driven world requires the knowledge of both data-related (statistical) methods and of appropriate models to use that data. This Business Analytics class focuses on the latter: it introduces students to analytical frameworks used for decision making though Excel modeling.    
+  
+
+    Module 1 : Introduction to Excel: Basics and Best Practices
+
+        description: The purpose of this course is to expose you to a variety of problems that can be solved using management science methods and modelled in Excel. In this course, we start from the basics of spreadsheet design and work our way up to broader mathematical optimization modelling. 
+
+    Module 2 : What-If Analysis in Excel
+
+        description: We are now ready to introduce more complexity to our spreadsheet models. Since everyone comes from different Excel backgrounds, we will review some basic functions and features as well as more advanced techniques. This module covers more of the modelling process and includes some of the less-well known, but particularly helpful, Excel functions and tools that are available.
+
+    Module 3 : Decision Analysis through Regression and NPV
+
+        description: In this module the modeling concept of estimating relationships between variables by curve fitting, or regression analysis, is used to solve realistic business problems. Different regression curves are introduced and a mathematical analysis of which curve is best to help defend the model is presented.
+
+
+    Module 4 : Linear Programming
+
+        description: In this module we introduce spreadsheet optimization, one of the most powerful and flexible methods of quantitative analysis. The specific type of optimization presented here is linear programming (LP) which is used in all types of organizations to solve a wide variety of problems.
+
+    Module 5 : Transportation and Assignment Problems
+
+        description: This module provides even more examples of problems that can be modeling using linear programming (LP), in particular Transportation and Assignment problems. The basic transportation problem is concerned with finding the best (usually the least cost) way to distribute the good from sources such as factories, to final destinations such as retail outlets.
+
+    Module 6 : Integer Programming and Nonlinear Programming
+
+        description: This module presents yet another subset of important mathematical linear programming models that arise when some of the basic assumptions of an LP model are made more or less restrictive. For example, restricting the decision variables to be whole numbers leads to the process of Integer Programming.
+
+----------------------------------------------------------
+
+*********
+Course: 9 (type: engineering)
+*********
+Introduction to Engineering Mechanics
+    
+    Description: This course is an introduction to learning and applying the principles required to solve engineering mechanics problems.   Concepts will be applied in this course from previous courses you have taken in basic math and physics.    
+  
+
+    Module 1 : Forces and Particle Equilibrium
+
+        description: In this section, students will learn the definition of a force and how to represent a force as a vector in two (2D) and three (3D) dimensions. Students will learn the concept of particle equilibrium and equilibrium of systems of particles. Concepts will be reinforced with example problems. 
+
+    Module 2 : Define and Calculate Moments
+
+        description: In this section, students will learn the definition of a moment. Students will calculate the moment of a force about a point, line or axis, and moment due to a couple.
+
+
+    Module 3 : Equilibrium and Equivalence of Force Systems
+
+        description: In this section, students will learn the equilibrium equations in two (2D) and three (3D) dimensions. Students will solve equivalent system problems. System force results will be defined and calculated.
+
+    Module 4 : Free Body Diagrams and Equilibrium Analysis Techniques
+
+        description: In this section, students will learn to analyze general equilibrium problems. Free Body Diagrams (FBD) will be defined. Concepts will be reinforced with example problems.
+
+    Module 5 : Final Project: Application of Static Equilibrium Equations
+
+        description: In this section, students will apply the equilibrium equations to solve two (2D) and three (3D) real world engineering problems. There will be an extensive use of example problems to reinforce concepts from the course.
+
+-----------------------------------------------
+
+*********
+Course: 10 (type: engineering)
+*********
+Wind Energy
+    
+    Description: Welcome to the course of Wind Energy. This course gives an overview of key aspects in wind energy engineering. Whether you are looking for general insight in this green technology or your ambition is to pursue a career in wind energy engineering, 'Wind Energy' is an excellent starting point.     
+  
+
+    Module 1 : Value creation and metrices
+        
+        description: You will learn about financial aspects during the entire lifetime of a wind turbine. When you have completed the module, you will be able to perform simple calculations for assessing wind farm projects and for calculating the cost of energy from wind. 
+
+    Module 2 : Introduction to Wind Atlases
+
+        description: You will learn why assessing wind conditions is important and how features in the landscape affect wind conditions at different scales. You will learn about the Global Wind Atlas and how it can be used to identify flow effects and explore wind climates and resources. Wind atlas validation and data download will also be presented
+
+
+    Module 3 : Wind Farm Design and Optimization
+
+        description: In this section, students will learn wind farm design optimization is a key step in overall wind farm project development. Developers need to side what turbines to use, where to place them, and how to design the rest of the system (balance of system including electrical collection system, turbine foundations, and more).
+
+    Module 4 : Forecasting of Wind Power
+
+        description: In this section, students will learn get overview of wind power forecasting, especially the motivation, the typical data flow, some error sources, and some specialised models for other uses than trading bulk power day-ahead. Forecasting wind (and similarly, solar) power in a system with 30% or more of renewables is paramount, and has been used operatively for 30 years.
+
+    Module 5 : How and Why we measure the wind
+
+        description: In this section, students will learn how and why we perform wind measurements in Wind Energy, including main parameters that are necessary to measure, different instruments and their technologies and functions.
+
+    Module 6 : Remote sensing for wind energy
+
+        description: In this section, students will go through a tour to the technology landscape of remote sensing for wind energy starting in part 1 with the basic principles of remote sensing of one wind component using Radar, Lidar, and Sodar. 
+
+--------------------------------------------------
